@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        gradient: "url('./public/header.png')",
+        gradient: "url('/header.png')",
       },
     },
   },
